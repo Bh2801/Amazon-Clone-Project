@@ -1,1 +1,1 @@
-# Amazon-Clone-Project
+This project involves designing and developing a simplified clone of the Amazon website using only HTML and CSS. The main goal is to replicate the layout, structure, and basic styling of Amazon's homepage and key sections, including the navigation bar, product listings, and footer. 
